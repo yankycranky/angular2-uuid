@@ -15,11 +15,6 @@
     "target": "es5",
     "inlineSources": false
   },
-
-  "files": [
-    "./src/index.ts"
-  ],
-
   "angularCompilerOptions": {
     "genDir": "compiled",
     "debug": true,
